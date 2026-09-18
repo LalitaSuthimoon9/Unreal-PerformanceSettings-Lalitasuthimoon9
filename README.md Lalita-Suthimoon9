@@ -1,11 +1,11 @@
-# Performance Settings for Unreal Engine
-
+Lalita-Suthimoon9/Performance Settings for Unreal Engine
+Lalita-Suthimoon9
 ## Introduction
-
+Lalita-Suthimoon9
 When developing for Oculus VR headsets, understanding and optimizing performance settings is crucial. High-performance VR experiences are essential for maintaining immersion and preventing motion sickness. By learning about various performance settings, you can ensure your VR applications run smoothly, providing users with a seamless and enjoyable experience. Proper performance tuning can also help you make the most of the hardware capabilities, leading to visually stunning and responsive VR environments. Whether you're aiming to enhance frame rates, reduce latency, or optimize resource usage, mastering these settings is a key step in delivering top-tier VR content.
-
-## Setup
-
+Lalita-Suthimoon9
+Lalitasuthimoon9
+Lalita-Suthimoon9
 ![gen project files](./Media/gen_proj_files.png)
 
 * Create the Visual Studio Projects:
